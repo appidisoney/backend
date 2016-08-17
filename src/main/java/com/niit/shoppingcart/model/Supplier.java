@@ -1,18 +1,14 @@
 package com.niit.shoppingcart.model;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 
-
 @Entity
 @Table
-@Component
-
 public class Supplier {
 	
-	@Id
+	   @Id
        private String id;
        private String name;
        private String address;

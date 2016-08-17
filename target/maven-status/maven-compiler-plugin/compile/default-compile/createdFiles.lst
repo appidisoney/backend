@@ -1,0 +1,14 @@
+com\niit\shoppingcart\model\UserDetails.class
+com\niit\App.class
+com\niit\shoppingcart\Dao\UserDetailsDAOImpl.class
+com\niit\shoppingcart\model\Category.class
+com\niit\shoppingcart\config\Applicationcontextconfig.class
+com\niit\shoppingcart\Dao\ProductDAO.class
+com\niit\shoppingcart\Dao\CategoryDAOImpl.class
+com\niit\shoppingcart\Dao\CategoryDAO.class
+com\niit\shoppingcart\model\Product.class
+com\niit\shoppingcart\Dao\UserDetailsDAO.class
+com\niit\shoppingcart\Dao\SupplierDAO.class
+com\niit\shoppingcart\Dao\SupplierDAOImpl.class
+com\niit\shoppingcart\model\Supplier.class
+com\niit\shoppingcart\Dao\ProductDAOImpl.class

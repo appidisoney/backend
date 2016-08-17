@@ -1,4 +1,14 @@
 E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\model\Category.java
-E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\model\Ent.java
-E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\config\Applicationcontextconfig.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\UserDetailsDAO.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\model\Supplier.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\CategoryDAOImpl.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\CategoryDAO.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\ProductDAOImpl.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\model\Product.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\model\UserDetails.java
 E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\App.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\UserDetailsDAOImpl.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\ProductDAO.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\config\Applicationcontextconfig.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\SupplierDAO.java
+E:\digital traformation\workspace\shoppingcartbackend\src\main\java\com\niit\shoppingcart\Dao\SupplierDAOImpl.java
